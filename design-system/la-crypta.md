@@ -17,6 +17,11 @@
 - Use `lc-spinner` for in-place async state, not custom loading text that shifts layout.
 - Preserve the green accent for trust, authentication, online, and primary confirmation states.
 
+## Admin Consoles
+
+- Operator consoles share one shell (sidebar, fixed header banner, grid background, profile card). See [Admin console shell](admin-shell.md).
+- Product marks are SVG, not Unicode glyphs. See [logos](logos/).
+
 ## Login Surfaces
 
 - Prefer `@nostr-wot/ui` with `theme="la-crypta"` when the host app has a bundler and React/Preact compatibility.

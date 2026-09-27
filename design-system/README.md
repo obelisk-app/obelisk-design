@@ -13,3 +13,5 @@ Obelisk uses the La Crypta visual system across the app, relay admin, SFU admin,
 ## Canonical Pages
 
 - [La Crypta tokens and patterns](la-crypta.md)
+- [Admin console shell](admin-shell.md) - the shared sidebar, header banner, grid background, profile card and product logos
+- [Logos](logos/) - SVG marks for Obelisk SFU and Obelisk Agents

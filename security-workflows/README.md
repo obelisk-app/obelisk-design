@@ -13,3 +13,4 @@ Obelisk security workflows are Nostr-first: identity is a key, authorization is 
 
 - [Nostr auth](nostr-auth.md)
 - [Operator admin](operator-admin.md)
+- [Admin console auth](admin-console-auth.md) - how the relay, SFU and agents consoles actually sign in, verify, hold sessions and log out, with known gaps

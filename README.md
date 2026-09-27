@@ -14,5 +14,6 @@ This repository collects the shared rules that were previously scattered across 
 
 - `obelisk_repo/README.md` and `obelisk-dex/README.md` for contribution and design-system guidance.
 - `obelisk-sfu/docs/sfu-system.md` for operator-run SFU trust boundaries.
+- `obelisk-relay/frontend/src/components/admin/AdminPanel.tsx`, `obelisk-sfu/admin-ui/src/components/Console.tsx` and `obelisk-agents/frontend/src/components/Layout.tsx` for the shared admin shell.
 - `obelisk_repo/docs/uploads.md` for storage threat-model language.
 - `obelisk_repo/docs/admin-cli.md` for operator and agent-admin workflows.
