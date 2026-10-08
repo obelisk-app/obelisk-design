@@ -206,7 +206,7 @@ Always bottom-left, and always the last element of the sidebar footer.
 </div>
 ```
 
-- **Relay:** shows the relay's own NIP-11 `icon` (32×32, radius 7px). It falls back to the stroked `RelayIcon` when the icon is unset or fails to load. The name comes from NIP-11 `name`, with an "Admin console" subtitle. It also sets that icon as the favicon.
+- **Relay:** the product mark is `logos/obelisk-relay.svg`, but a running console is an *instance*, so its brand block shows the relay's own NIP-11 `icon` (32×32, radius 7px). It falls back to the stroked `RelayIcon` when the icon is unset or fails to load. The name comes from NIP-11 `name`, with an "Admin console" subtitle. It also sets that icon as the favicon.
 - **Mobile top bar:** the same brand element at the same 32px.
 - **Login screen:** `<Logo size={56} glow />` above the product name. On mobile it is centred above the card.
 
@@ -214,9 +214,9 @@ Always bottom-left, and always the last element of the sidebar footer.
 
 | Product | Mark | File |
 |---|---|---|
-| Obelisk SFU | A forwarding hub: one ringed node routing to four peers | [`logos/obelisk-sfu.svg`](logos/obelisk-sfu.svg) |
+| Obelisk SFU | A stream fanning out: sound bars into one forwarding node, out to three peers | [`logos/obelisk-sfu.svg`](logos/obelisk-sfu.svg) |
 | Obelisk Agents | A bot head: antenna, ears, two lit eyes | [`logos/obelisk-agents.svg`](logos/obelisk-agents.svg) |
-| Obelisk Relay | Broadcast waves around a dot, stroked, no tile (`RelayIcon`), or the operator's NIP-11 icon | — |
+| Obelisk Relay | Broadcast waves around a dot: the `RelayIcon` glyph on the family tile. This is the product mark (docs, decks, marketing, ecosystem diagrams); a running relay's console still shows the operator's NIP-11 icon | [`logos/obelisk-relay.svg`](logos/obelisk-relay.svg) |
 
 ### Making a logo for a new product
 
