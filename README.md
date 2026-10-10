@@ -17,3 +17,4 @@ This repository collects the shared rules that were previously scattered across 
 - `obelisk-relay/frontend/src/components/admin/AdminPanel.tsx`, `obelisk-sfu/admin-ui/src/components/Console.tsx` and `obelisk-agents/frontend/src/components/Layout.tsx` for the shared admin shell.
 - `obelisk_repo/docs/uploads.md` for storage threat-model language.
 - `obelisk_repo/docs/admin-cli.md` for operator and agent-admin workflows.
+- `obelisk-dex/src/services/social/note-links.ts` and `src/services/social/identifier.ts` for the public `/p`, `/notes` and `/t` link shapes.

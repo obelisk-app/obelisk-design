@@ -13,3 +13,4 @@ Shared implementation rules for Obelisk projects.
 
 - [Frontend](frontend.md)
 - [Docs and specs](docs-and-specs.md)
+- [Nostr links](nostr-links.md) - `obelisk.ar/p/<nprofile>`, `/notes/<nevent>`, `/t/<tag>`; never third-party gateways
