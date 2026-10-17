@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 440" width="1280" height="440" role="img" aria-labelledby="t d">
+  <title id="t">Obelisk Design</title>
+  <desc id="d">The four Obelisk product marks draw themselves beside the La Crypta palette.</desc>
+  <defs><linearGradient id="g0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c5ff6e"/><stop offset="1" stop-color="#5a8f1f"/></linearGradient><linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c5ff6e"/><stop offset="1" stop-color="#5a8f1f"/></linearGradient><linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c5ff6e"/><stop offset="1" stop-color="#5a8f1f"/></linearGradient><linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c5ff6e"/><stop offset="1" stop-color="#5a8f1f"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1c1c1c" stroke-width="1"/></pattern>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#b4f953" stop-opacity="0.18"/><stop offset="1" stop-color="#b4f953" stop-opacity="0"/></radialGradient>
+    <clipPath id="frame"><rect width="1280" height="440" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="440" fill="#0a0a0a"/>
+    <rect width="1280" height="440" fill="url(#grid)"/>
+    <circle cx="990" cy="220" r="320" fill="url(#halo)"><animate attributeName="r" values="290;340;290" dur="6s" repeatCount="indefinite"/></circle>
+    <g font-family="Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif">
+      <g transform="translate(64 56)"><rect width="190" height="28" rx="14" fill="#171717" stroke="#262626"/><circle cx="16" cy="14" r="5" fill="#b4f953"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+      <text x="30" y="19" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#fafafa" letter-spacing="0.5">LA CRYPTA · lc-*</text></g>
+      <text x="62" y="152" font-size="64" font-weight="800" fill="#fafafa" letter-spacing="-2">Obelisk <tspan fill="#b4f953">Design</tspan></text>
+      <text x="64" y="200" font-size="20" fill="#a3a3a3">One visual language, one security posture, one style</text>
+      <text x="64" y="228" font-size="20" fill="#a3a3a3">for every Obelisk project.</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.0250;0.0750;0.9333;0.9833;1" values="0;0;1;1;0;0"/>
+      <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite" keyTimes="0;0.0250;0.0750;1" values="0 30;0 30;0 0;0 0" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1;0 0 1 1"/>
+      <rect x="64" y="300" width="80" height="56" rx="12" fill="#0a0a0a" stroke="#3a3a3a"/>
+      <text x="104" y="376" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" fill="#fafafa" text-anchor="middle">#0a0a0a</text>
+      <text x="104" y="394" font-family="Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="11" fill="#a3a3a3" text-anchor="middle">Background</text></g><g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.0458;0.0958;0.9333;0.9833;1" values="0;0;1;1;0;0"/>
+      <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite" keyTimes="0;0.0458;0.0958;1" values="0 30;0 30;0 0;0 0" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1;0 0 1 1"/>
+      <rect x="158" y="300" width="80" height="56" rx="12" fill="#171717" stroke="#3a3a3a"/>
+      <text x="198" y="376" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" fill="#fafafa" text-anchor="middle">#171717</text>
+      <text x="198" y="394" font-family="Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="11" fill="#a3a3a3" text-anchor="middle">Surface</text></g><g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.0667;0.1167;0.9333;0.9833;1" values="0;0;1;1;0;0"/>
+      <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite" keyTimes="0;0.0667;0.1167;1" values="0 30;0 30;0 0;0 0" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1;0 0 1 1"/>
+      <rect x="252" y="300" width="80" height="56" rx="12" fill="#262626"/>
+      <text x="292" y="376" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" fill="#fafafa" text-anchor="middle">#262626</text>
+      <text x="292" y="394" font-family="Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="11" fill="#a3a3a3" text-anchor="middle">Border</text></g><g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.0875;0.1375;0.9333;0.9833;1" values="0;0;1;1;0;0"/>
+      <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite" keyTimes="0;0.0875;0.1375;1" values="0 30;0 30;0 0;0 0" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1;0 0 1 1"/>
+      <rect x="346" y="300" width="80" height="56" rx="12" fill="#b4f953"/>
+      <text x="386" y="376" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" fill="#fafafa" text-anchor="middle">#b4f953</text>
+      <text x="386" y="394" font-family="Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="11" fill="#a3a3a3" text-anchor="middle">Accent</text></g><g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.1083;0.1583;0.9333;0.9833;1" values="0;0;1;1;0;0"/>
+      <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite" keyTimes="0;0.1083;0.1583;1" values="0 30;0 30;0 0;0 0" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1;0 0 1 1"/>
+      <rect x="440" y="300" width="80" height="56" rx="12" fill="#fafafa"/>
+      <text x="480" y="376" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" fill="#fafafa" text-anchor="middle">#fafafa</text>
+      <text x="480" y="394" font-family="Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="11" fill="#a3a3a3" text-anchor="middle">Text</text></g><g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.1292;0.1792;0.9333;0.9833;1" values="0;0;1;1;0;0"/>
+      <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite" keyTimes="0;0.1292;0.1792;1" values="0 30;0 30;0 0;0 0" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1;0 0 1 1"/>
+      <rect x="534" y="300" width="80" height="56" rx="12" fill="#a3a3a3"/>
+      <text x="574" y="376" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" fill="#fafafa" text-anchor="middle">#a3a3a3</text>
+      <text x="574" y="394" font-family="Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="11" fill="#a3a3a3" text-anchor="middle">Muted text</text></g><g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.1500;0.2000;0.9333;0.9833;1" values="0;0;1;1;0;0"/>
+      <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite" keyTimes="0;0.1500;0.2000;1" values="0 30;0 30;0 0;0 0" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1;0 0 1 1"/>
+      <rect x="628" y="300" width="80" height="56" rx="12" fill="#ef4444"/>
+      <text x="668" y="376" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" fill="#fafafa" text-anchor="middle">#ef4444</text>
+      <text x="668" y="394" font-family="Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="11" fill="#a3a3a3" text-anchor="middle">Danger</text></g>
+    <g transform="translate(760 60) scale(1.9)">
+  <rect width="64" height="64" rx="15" fill="url(#g0)"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.0167;0.0500;0.9333;0.9833;1" values="0;0;1;1;0;0"/></rect>
+  <path pathLength="1" stroke-dasharray="1" d="M32 9.5 27.6 15 25.2 53.5H31.6V15Z" fill="none" stroke="#0a0a0a" stroke-width="2.5" stroke-linejoin="round"><animate attributeName="stroke-dashoffset" dur="12s" repeatCount="indefinite" keyTimes="0;0.0500;0.1500;0.9333;0.9833;1" values="1;1;0;0;1;1"/></path>
+  <path pathLength="1" stroke-dasharray="1" d="M32 9.5 36.4 15 38.8 53.5H31.6V15Z" fill="#0a0a0a" stroke="#0a0a0a" stroke-width="2.5" stroke-linejoin="round"><animate attributeName="stroke-dashoffset" dur="12s" repeatCount="indefinite" keyTimes="0;0.0500;0.1500;0.9333;0.9833;1" values="1;1;0;0;1;1"/></path>
+</g>
+    <text x="821" y="210" font-family="Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#a3a3a3" text-anchor="middle" opacity="0">Obelisk<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.1000;0.1500;0.9333;0.9833;1" values="0;0;1;1;0;0"/></text><g transform="translate(990 60) scale(1.9)">
+  <rect width="64" height="64" rx="15" fill="url(#g1)"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.0917;0.1250;0.9333;0.9833;1" values="0;0;1;1;0;0"/></rect>
+  <g fill="none" stroke="#0a0a0a" stroke-width="3.5" stroke-linecap="round">
+    <path pathLength="1" stroke-dasharray="1" d="M22.6 22.6a13.2 13.2 0 0 0 0 18.8M41.4 41.4a13.2 13.2 0 0 0 0-18.8"><animate attributeName="stroke-dashoffset" dur="12s" repeatCount="indefinite" keyTimes="0;0.1250;0.2250;0.9333;0.9833;1" values="1;1;0;0;1;1"/></path>
+    <path pathLength="1" stroke-dasharray="1" d="M16.7 16.7a21.6 21.6 0 0 0 0 30.6M47.3 47.3a21.6 21.6 0 0 0 0-30.6"><animate attributeName="stroke-dashoffset" dur="12s" repeatCount="indefinite" keyTimes="0;0.1250;0.2250;0.9333;0.9833;1" values="1;1;0;0;1;1"/></path>
+  </g>
+  <circle cx="32" cy="32" r="5.5" fill="#0a0a0a"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.1917;0.2750;0.9333;0.9833;1" values="0;0;1;1;0;0"/></circle>
+</g>
+    <text x="1051" y="210" font-family="Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#a3a3a3" text-anchor="middle" opacity="0">Relay<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.1750;0.2250;0.9333;0.9833;1" values="0;0;1;1;0;0"/></text><g transform="translate(760 230) scale(1.9)">
+  <rect width="64" height="64" rx="15" fill="url(#g2)"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.1667;0.2000;0.9333;0.9833;1" values="0;0;1;1;0;0"/></rect>
+  <g fill="none" stroke="#0a0a0a" stroke-width="3.5" stroke-linecap="round">
+    <path pathLength="1" stroke-dasharray="1" d="M9 28v8M15 22v20M21 26v12"><animate attributeName="stroke-dashoffset" dur="12s" repeatCount="indefinite" keyTimes="0;0.2000;0.3000;0.9333;0.9833;1" values="1;1;0;0;1;1"/></path>
+    <path pathLength="1" stroke-dasharray="1" d="M27 32h7M37 32 50 18M37 32h14M37 32 50 46"><animate attributeName="stroke-dashoffset" dur="12s" repeatCount="indefinite" keyTimes="0;0.2000;0.3000;0.9333;0.9833;1" values="1;1;0;0;1;1"/></path>
+  </g>
+  <g fill="#0a0a0a" opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.2667;0.3500;0.9333;0.9833;1" values="0;0;1;1;0;0"/>
+    <circle cx="36" cy="32" r="5.5"/>
+    <circle cx="51" cy="17" r="4.5"/>
+    <circle cx="53" cy="32" r="4.5"/>
+    <circle cx="51" cy="47" r="4.5"/>
+  </g>
+</g>
+    <text x="821" y="380" font-family="Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#a3a3a3" text-anchor="middle" opacity="0">SFU<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.2500;0.3000;0.9333;0.9833;1" values="0;0;1;1;0;0"/></text><g transform="translate(990 230) scale(1.9)">
+  <rect width="64" height="64" rx="15" fill="url(#g3)"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.2417;0.2750;0.9333;0.9833;1" values="0;0;1;1;0;0"/></rect>
+  <path pathLength="1" stroke-dasharray="1" d="M32 13v6" stroke="#0a0a0a" stroke-width="3.5" stroke-linecap="round"><animate attributeName="stroke-dashoffset" dur="12s" repeatCount="indefinite" keyTimes="0;0.2750;0.3750;0.9333;0.9833;1" values="1;1;0;0;1;1"/></path>
+  <circle cx="32" cy="11.5" r="3.5" fill="#0a0a0a"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.3417;0.4250;0.9333;0.9833;1" values="0;0;1;1;0;0"/></circle>
+  <rect x="8.5" y="30" width="5" height="11" rx="2.5" fill="#0a0a0a"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.3417;0.4250;0.9333;0.9833;1" values="0;0;1;1;0;0"/></rect>
+  <rect x="50.5" y="30" width="5" height="11" rx="2.5" fill="#0a0a0a"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.3417;0.4250;0.9333;0.9833;1" values="0;0;1;1;0;0"/></rect>
+  <rect x="15" y="20" width="34" height="31" rx="9" fill="#0a0a0a"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.3417;0.4250;0.9333;0.9833;1" values="0;0;1;1;0;0"/></rect>
+  <circle cx="25.5" cy="33" r="4" fill="#b4f953"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.3417;0.4250;0.9333;0.9833;1" values="0;0;1;1;0;0"/></circle>
+  <circle cx="38.5" cy="33" r="4" fill="#b4f953"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.3417;0.4250;0.9333;0.9833;1" values="0;0;1;1;0;0"/></circle>
+  <path pathLength="1" stroke-dasharray="1" d="M27 42.5h10" stroke="#b4f953" stroke-width="3" stroke-linecap="round"><animate attributeName="stroke-dashoffset" dur="12s" repeatCount="indefinite" keyTimes="0;0.2750;0.3750;0.9333;0.9833;1" values="1;1;0;0;1;1"/></path>
+</g>
+    <text x="1051" y="380" font-family="Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#a3a3a3" text-anchor="middle" opacity="0">Agents<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.3250;0.3750;0.9333;0.9833;1" values="0;0;1;1;0;0"/></text>
+  </g>
+</svg>
