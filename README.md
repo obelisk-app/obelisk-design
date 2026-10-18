@@ -71,6 +71,10 @@ development-style/
   frontend.md            frontend conventions
   docs-and-specs.md      where docs and specs live
   nostr-links.md         public /p/<nprofile>, /notes/<nevent>, /t/<tag> links
+  readme-showcase.md     how Obelisk READMEs are dressed: animated SVGs, tours, counters
+tools/readme/
+  snap.cjs               screenshot an animated SVG at chosen seconds
+  tour.py                build the animated WebP screenshot tour
 ```
 
 ## 🧰 One shell, three consoles

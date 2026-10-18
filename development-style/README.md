@@ -13,4 +13,5 @@ Shared implementation rules for Obelisk projects.
 
 - [Frontend](frontend.md)
 - [Docs and specs](docs-and-specs.md)
+- [README showcase](readme-showcase.md) - animated SVG heroes, screenshot tours, live counters and the tools that check them
 - [Nostr links](nostr-links.md) - `obelisk.ar/p/<nprofile>`, `/notes/<nevent>`, `/t/<tag>`; never third-party gateways
