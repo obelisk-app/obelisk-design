@@ -2,6 +2,8 @@
 
 How Obelisk repos dress their READMEs: an animated hero, the product working on screen, live counters and links to the rest of the family. This is the recipe used for obelisk-sky, the org profile, obelisk-design, obelisk-sfu, obelisk-agents and obelisk-apps (October 2026). Copy from those when in doubt; they are the reference.
 
+What still has no real footage is tracked in [Real footage backlog](real-footage-backlog.md).
+
 Tools live in [`tools/readme/`](../tools/readme/): `snap.cjs` (frame-by-frame SVG check) and `tour.py` (animated WebP screenshot tour).
 
 ## The page, top to bottom

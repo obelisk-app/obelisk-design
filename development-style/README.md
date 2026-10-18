@@ -13,5 +13,6 @@ Shared implementation rules for Obelisk projects.
 
 - [Frontend](frontend.md)
 - [Docs and specs](docs-and-specs.md)
+- [Real footage backlog](real-footage-backlog.md) - every README and video still showing a mock or old still, the shot that would replace it, and what blocks it
 - [README showcase](readme-showcase.md) - animated SVG heroes, screenshot tours, live counters and the tools that check them
 - [Nostr links](nostr-links.md) - `obelisk.ar/p/<nprofile>`, `/notes/<nevent>`, `/t/<tag>`; never third-party gateways
