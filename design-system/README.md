@@ -14,4 +14,5 @@ Obelisk uses the La Crypta visual system across the app, relay admin, SFU admin,
 
 - [La Crypta tokens and patterns](la-crypta.md)
 - [Admin console shell](admin-shell.md) - the shared sidebar, header banner, grid background, profile card and product logos
+- [Social accounts](social.md) - Obelisk's official Instagram, YouTube and X handles, the social card, and README snippets
 - [Logos](logos/) - SVG product marks for Obelisk (the app), Obelisk Relay, Obelisk SFU and Obelisk Agents. Use these for the product, never an instance's own icon (e.g. the purple "P" of `public.obelisk.ar`)

@@ -57,6 +57,7 @@ Use these for the product, never an instance's own icon (e.g. the purple "P" of 
 ```
 design-system/
   README.md              core rules: lc-* first, dense admin tools, cards only for bounded things
+  social.md              official Instagram, YouTube and X accounts, the social card
   la-crypta.md           tokens, component patterns, login surfaces
   admin-shell.md         the one shell shared by the relay, SFU and agents consoles
   logos/                 obelisk-app · obelisk-relay · obelisk-sfu · obelisk-agents (SVG)
