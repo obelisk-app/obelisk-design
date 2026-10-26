@@ -22,7 +22,7 @@ The network glyphs on the card and in the apps are simple line drawings in the a
 
 ## Where to put them
 
-After the page's main call to action, never before it: following is the softer next step for someone not signing up today. Repeat them as small icons in the footer, where people look for them.
+Where the page has a walkthrough video, right after it: someone who just watched it is the most ready to follow (obelisk.ar). Otherwise after the page's main call to action, never before it (sky.obelisk.ar). Either way, repeat them as small icons in the footer, where people look for them.
 
 ## Snippets
 
@@ -48,6 +48,6 @@ Instagram [@obelisk.ar](https://www.instagram.com/obelisk.ar) · YouTube [@obeli
 
 | Place | What |
 |---|---|
-| obelisk (obelisk-dex) | `SOCIAL_ACCOUNTS` in `src/constants/marketing/social.ts`. The landing ends with `SocialSection` ("Follow Obelisk", en/es/pt), after the closing call to action, and the site footer repeats them as round icons under the brand blurb. Icons: `InstagramIcon`, `YouTubeIcon`, `XLogoIcon` in `src/assets/icons/` |
+| obelisk (obelisk-dex) | `SOCIAL_ACCOUNTS` in `src/constants/marketing/social.ts`. The landing shows `SocialSection` ("Follow Obelisk", en/es/pt) right after the "Watch the walkthrough" video, and the site footer repeats them as round icons under the brand blurb. Icons: `InstagramIcon`, `YouTubeIcon`, `XLogoIcon` in `src/assets/icons/` |
 | obelisk-sky | The landing's `#social` section, after "The island is up. Come in.", and round icons at the end of the footer (`client/index.html`, copy in `client/src/landing/copy.ts`, styles in `landing.css`) |
 | obelisk-media | `instagram/PERFIL.md`, the Instagram profile's links |
